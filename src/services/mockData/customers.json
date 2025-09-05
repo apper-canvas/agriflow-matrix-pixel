@@ -1,0 +1,154 @@
+[
+  {
+    "Id": 1,
+    "name": "John Thompson",
+    "farmName": "Thompson Family Farm",
+    "location": {
+      "address": "1234 Rural Route 42",
+      "city": "Greenfield",
+      "state": "IA",
+      "zipCode": "50849",
+      "coordinates": { "lat": 41.2033, "lng": -91.7982 }
+    },
+    "contactPhone": "(515) 555-0123",
+    "contactEmail": "john@thompsonfarm.com",
+    "farmSize": 850,
+    "primaryCrops": ["Corn", "Soybeans", "Wheat"],
+    "customerSince": "2019-03-15",
+    "status": "Active",
+    "notes": "Prefers organic fertilizers. Large volume buyer. Payment terms NET30."
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Martinez",
+    "farmName": "Martinez Organic Farms",
+    "location": {
+      "address": "567 County Road 18",
+      "city": "Cedar Rapids",
+      "state": "IA",
+      "zipCode": "52404",
+      "coordinates": { "lat": 41.9778, "lng": -91.6656 }
+    },
+    "contactPhone": "(319) 555-0187",
+    "contactEmail": "sarah@martinezorganic.com",
+    "farmSize": 425,
+    "primaryCrops": ["Organic Corn", "Organic Soybeans", "Alfalfa"],
+    "customerSince": "2020-07-22",
+    "status": "Active",
+    "notes": "Certified organic operation. Requires organic-approved products only."
+  },
+  {
+    "Id": 3,
+    "name": "Robert Wilson",
+    "farmName": "Wilson Grain & Cattle",
+    "location": {
+      "address": "890 Prairie View Road",
+      "city": "Ames",
+      "state": "IA",
+      "zipCode": "50010",
+      "coordinates": { "lat": 42.0308, "lng": -93.6319 }
+    },
+    "contactPhone": "(515) 555-0234",
+    "contactEmail": "bob@wilsongrain.com",
+    "farmSize": 1200,
+    "primaryCrops": ["Corn", "Soybeans", "Hay", "Pasture"],
+    "customerSince": "2018-11-08",
+    "status": "Active",
+    "notes": "Diversified operation with both crops and cattle. Bulk purchaser."
+  },
+  {
+    "Id": 4,
+    "name": "Lisa Chen",
+    "farmName": "Chen Specialty Crops",
+    "location": {
+      "address": "456 Hillside Lane",
+      "city": "Des Moines",
+      "state": "IA",
+      "zipCode": "50312",
+      "coordinates": { "lat": 41.5868, "lng": -93.6250 }
+    },
+    "contactPhone": "(515) 555-0145",
+    "contactEmail": "lisa@chencrops.com",
+    "farmSize": 180,
+    "primaryCrops": ["Vegetables", "Herbs", "Specialty Grains"],
+    "customerSince": "2021-05-14",
+    "status": "Active",
+    "notes": "Specialty crop producer. Requires custom blend fertilizers."
+  },
+  {
+    "Id": 5,
+    "name": "Michael O'Brien",
+    "farmName": "O'Brien Brothers Farm",
+    "location": {
+      "address": "789 Township Road 45",
+      "city": "Waterloo",
+      "state": "IA",
+      "zipCode": "50702",
+      "coordinates": { "lat": 42.4928, "lng": -92.3426 }
+    },
+    "contactPhone": "(319) 555-0198",
+    "contactEmail": "mike@obrienbrothers.com",
+    "farmSize": 650,
+    "primaryCrops": ["Corn", "Soybeans"],
+    "customerSince": "2017-09-30",
+    "status": "Active",
+    "notes": "Family operation. Brothers share management duties. Reliable customer."
+  },
+  {
+    "Id": 6,
+    "name": "Amanda Rodriguez",
+    "farmName": "Rodriguez Sustainable Agriculture",
+    "location": {
+      "address": "321 Green Valley Road",
+      "city": "Iowa City",
+      "state": "IA",
+      "zipCode": "52240",
+      "coordinates": { "lat": 41.6611, "lng": -91.5302 }
+    },
+    "contactPhone": "(319) 555-0156",
+    "contactEmail": "amanda@rodriguezsustainable.com",
+    "farmSize": 320,
+    "primaryCrops": ["Cover Crops", "Organic Corn", "Organic Soybeans"],
+    "customerSince": "2022-01-18",
+    "status": "Active",
+    "notes": "Focus on sustainable practices. Interested in new eco-friendly products."
+  },
+  {
+    "Id": 7,
+    "name": "David Anderson",
+    "farmName": "Anderson Grain Farm",
+    "location": {
+      "address": "654 Farm Road 7",
+      "city": "Mason City",
+      "state": "IA",
+      "zipCode": "50401",
+      "coordinates": { "lat": 43.1538, "lng": -93.2010 }
+    },
+    "contactPhone": "(641) 555-0167",
+    "contactEmail": "david@andersongrain.com",
+    "farmSize": 975,
+    "primaryCrops": ["Corn", "Soybeans", "Oats"],
+    "customerSince": "2019-12-03",
+    "status": "Inactive",
+    "notes": "Large operation. Currently inactive - financial restructuring."
+  },
+  {
+    "Id": 8,
+    "name": "Jennifer Kim",
+    "farmName": "Kim Family Orchards",
+    "location": {
+      "address": "987 Orchard Hill Drive",
+      "city": "Dubuque",
+      "state": "IA",
+      "zipCode": "52001",
+      "coordinates": { "lat": 42.5006, "lng": -90.6648 }
+    },
+    "contactPhone": "(563) 555-0178",
+    "contactEmail": "jen@kimfamilyorchards.com",
+    "farmSize": 95,
+    "primaryCrops": ["Apples", "Pears", "Berries"],
+    "customerSince": "2020-04-25",
+    "status": "Active",
+    "notes": "Fruit operation. Specialized nutrient requirements. Seasonal orders."
+  }
+]

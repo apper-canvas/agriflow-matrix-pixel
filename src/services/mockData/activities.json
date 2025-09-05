@@ -1,0 +1,98 @@
+[
+  {
+    "Id": 1,
+    "customerId": "1",
+    "type": "Phone Call",
+    "date": "2024-02-05",
+    "description": "Discussed spring planting plans and seed requirements for 2024 season. Customer interested in trying new drought-resistant corn varieties.",
+    "createdBy": "Sales Rep"
+  },
+  {
+    "Id": 2,
+    "customerId": "2",
+    "type": "Site Visit",
+    "date": "2024-02-03",
+    "description": "Conducted soil test and consultation at Martinez farm. Recommended organic nutrient program for upcoming season.",
+    "createdBy": "Field Agronomist"
+  },
+  {
+    "Id": 3,
+    "customerId": "3",
+    "type": "Email",
+    "date": "2024-02-02",
+    "description": "Sent pricing information for bulk seed orders. Customer requested quotes for both conventional and GMO varieties.",
+    "createdBy": "Sales Rep"
+  },
+  {
+    "Id": 4,
+    "customerId": "1",
+    "type": "Order Delivery",
+    "date": "2024-01-22",
+    "description": "Successfully delivered Order #1. Customer satisfied with product quality and delivery timing.",
+    "createdBy": "Delivery Team"
+  },
+  {
+    "Id": 5,
+    "customerId": "4",
+    "type": "Phone Call",
+    "date": "2024-01-28",
+    "description": "Customer called regarding specialty fertilizer requirements for vegetable crops. Provided technical recommendations.",
+    "createdBy": "Technical Support"
+  },
+  {
+    "Id": 6,
+    "customerId": "5",
+    "type": "Meeting",
+    "date": "2024-01-20",
+    "description": "Farm visit to assess equipment compatibility and delivery logistics. Confirmed spring delivery schedule.",
+    "createdBy": "Account Manager"
+  },
+  {
+    "Id": 7,
+    "customerId": "2",
+    "type": "Quote Sent",
+    "date": "2024-01-18",
+    "description": "Provided comprehensive quote for organic farming inputs including fertilizer, pest control, and soil amendments.",
+    "createdBy": "Sales Rep"
+  },
+  {
+    "Id": 8,
+    "customerId": "6",
+    "type": "Site Visit",
+    "date": "2024-01-25",
+    "description": "Consultation on sustainable farming practices. Discussed cover crop options and soil health improvement strategies.",
+    "createdBy": "Sustainability Consultant"
+  },
+  {
+    "Id": 9,
+    "customerId": "8",
+    "type": "Phone Call",
+    "date": "2024-01-30",
+    "description": "Discussed fruit tree nutrition program. Customer interested in organic-approved products for orchard management.",
+    "createdBy": "Specialty Crops Advisor"
+  },
+  {
+    "Id": 10,
+    "customerId": "3",
+    "type": "Order Shipped",
+    "date": "2024-01-23",
+    "description": "Order #3 shipped via freight carrier. Tracking information provided to customer. ETA January 25th.",
+    "createdBy": "Logistics Team"
+  },
+  {
+    "Id": 11,
+    "customerId": "7",
+    "type": "Account Review",
+    "date": "2024-01-15",
+    "description": "Account marked inactive due to financial restructuring. Will follow up quarterly for status updates.",
+    "createdBy": "Account Manager"
+  },
+  {
+    "Id": 12,
+    "customerId": "1",
+    "type": "Payment Received",
+    "date": "2024-01-25",
+    "description": "Payment received for Order #1. Account in good standing. NET30 terms maintained.",
+    "createdBy": "Accounting"
+  }
+]

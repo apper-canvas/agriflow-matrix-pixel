@@ -1,0 +1,114 @@
+[
+  {
+    "Id": 1,
+    "customerId": "1",
+    "orderDate": "2024-01-15",
+    "items": [
+      {"product": "Premium Corn Seed", "quantity": 50, "unit": "bags", "unitPrice": 285.00},
+      {"product": "Liquid Nitrogen", "quantity": 200, "unit": "gallons", "unitPrice": 3.25}
+    ],
+    "totalAmount": 14900.00,
+    "status": "Delivered",
+    "deliveryDate": "2024-01-22",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Check"
+  },
+  {
+    "Id": 2,
+    "customerId": "2",
+    "orderDate": "2024-01-18",
+    "items": [
+      {"product": "Organic Fertilizer Blend", "quantity": 25, "unit": "tons", "unitPrice": 450.00},
+      {"product": "Organic Pest Control", "quantity": 10, "unit": "cases", "unitPrice": 125.00}
+    ],
+    "totalAmount": 12500.00,
+    "status": "Processing",
+    "deliveryDate": "2024-01-28",
+    "paymentStatus": "Pending",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "Id": 3,
+    "customerId": "3",
+    "orderDate": "2024-01-20",
+    "items": [
+      {"product": "Bulk Corn Seed", "quantity": 80, "unit": "bags", "unitPrice": 265.00},
+      {"product": "Soybean Seed", "quantity": 40, "unit": "bags", "unitPrice": 295.00},
+      {"product": "Hay Preservative", "quantity": 15, "unit": "jugs", "unitPrice": 85.00}
+    ],
+    "totalAmount": 34475.00,
+    "status": "Shipped",
+    "deliveryDate": "2024-01-25",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Bank Transfer"
+  },
+  {
+    "Id": 4,
+    "customerId": "4",
+    "orderDate": "2024-01-22",
+    "items": [
+      {"product": "Vegetable Fertilizer", "quantity": 5, "unit": "tons", "unitPrice": 380.00},
+      {"product": "Specialty Micronutrients", "quantity": 20, "unit": "bottles", "unitPrice": 45.00}
+    ],
+    "totalAmount": 2800.00,
+    "status": "Processing",
+    "deliveryDate": "2024-01-30",
+    "paymentStatus": "Pending",
+    "paymentMethod": "Credit Card"
+  },
+  {
+    "Id": 5,
+    "customerId": "5",
+    "orderDate": "2024-01-25",
+    "items": [
+      {"product": "Premium Corn Seed", "quantity": 65, "unit": "bags", "unitPrice": 285.00},
+      {"product": "Liquid Starter Fertilizer", "quantity": 150, "unit": "gallons", "unitPrice": 4.50}
+    ],
+    "totalAmount": 19200.00,
+    "status": "Confirmed",
+    "deliveryDate": "2024-02-05",
+    "paymentStatus": "Pending",
+    "paymentMethod": "Check"
+  },
+  {
+    "Id": 6,
+    "customerId": "6",
+    "orderDate": "2024-01-28",
+    "items": [
+      {"product": "Cover Crop Seed Mix", "quantity": 15, "unit": "bags", "unitPrice": 195.00},
+      {"product": "Organic Soil Amendment", "quantity": 8, "unit": "tons", "unitPrice": 425.00}
+    ],
+    "totalAmount": 6325.00,
+    "status": "Quote",
+    "deliveryDate": "2024-02-10",
+    "paymentStatus": "Not Required",
+    "paymentMethod": "TBD"
+  },
+  {
+    "Id": 7,
+    "customerId": "1",
+    "orderDate": "2024-01-30",
+    "items": [
+      {"product": "Spring Fertilizer Blend", "quantity": 30, "unit": "tons", "unitPrice": 395.00}
+    ],
+    "totalAmount": 11850.00,
+    "status": "Quote",
+    "deliveryDate": "2024-03-15",
+    "paymentStatus": "Not Required",
+    "paymentMethod": "TBD"
+  },
+  {
+    "Id": 8,
+    "customerId": "8",
+    "orderDate": "2024-02-01",
+    "items": [
+      {"product": "Fruit Tree Fertilizer", "quantity": 12, "unit": "bags", "unitPrice": 75.00},
+      {"product": "Organic Fungicide", "quantity": 6, "unit": "bottles", "unitPrice": 95.00}
+    ],
+    "totalAmount": 1470.00,
+    "status": "Processing",
+    "deliveryDate": "2024-02-08",
+    "paymentStatus": "Paid",
+    "paymentMethod": "Credit Card"
+  }
+]
