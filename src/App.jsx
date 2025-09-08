@@ -8,19 +8,20 @@ import CustomerDetail from "@/components/pages/CustomerDetail";
 import Orders from "@/components/pages/Orders";
 import OrderDetail from "@/components/pages/OrderDetail";
 import Activities from "@/components/pages/Activities";
-
+import Planning from "@/components/pages/Planning";
 function App() {
   return (
     <Router>
       <div className="App">
         <Layout>
-          <Routes>
+<Routes>
             <Route path="/" element={<Dashboard />} />
             <Route path="/customers" element={<Customers />} />
             <Route path="/customers/:id" element={<CustomerDetail />} />
             <Route path="/orders" element={<Orders />} />
             <Route path="/orders/:id" element={<OrderDetail />} />
             <Route path="/activities" element={<Activities />} />
+            <Route path="/planning" element={<Planning />} />
           </Routes>
         </Layout>
         <ToastContainer

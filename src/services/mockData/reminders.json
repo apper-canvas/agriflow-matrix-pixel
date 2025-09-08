@@ -1,0 +1,100 @@
+[
+  {
+    "Id": 1,
+    "title": "Apply Fertilizer to Corn Field",
+    "description": "Second application of nitrogen fertilizer for corn in North Field A",
+    "reminderDate": "2024-07-15",
+    "reminderType": "Fertilizer",
+    "cropCycleId": 1,
+    "priority": "High",
+    "completed": false,
+    "createdAt": "2024-04-15T10:30:00.000Z",
+    "updatedAt": "2024-04-15T10:30:00.000Z"
+  },
+  {
+    "Id": 2,
+    "title": "Scout for Pests in Soybean Field",
+    "description": "Weekly pest monitoring in South Field B soybeans",
+    "reminderDate": "2024-07-20",
+    "reminderType": "Pest Control",
+    "cropCycleId": 2,
+    "priority": "Medium",
+    "completed": false,
+    "createdAt": "2024-05-01T09:15:00.000Z",
+    "updatedAt": "2024-05-01T09:15:00.000Z"
+  },
+  {
+    "Id": 3,
+    "title": "Harvest Wheat Crop",
+    "description": "Begin harvest of winter wheat in East Field C",
+    "reminderDate": "2024-06-18",
+    "reminderType": "Harvest",
+    "cropCycleId": 3,
+    "priority": "High",
+    "completed": true,
+    "completedAt": "2024-06-18T16:30:00.000Z",
+    "createdAt": "2024-06-15T08:00:00.000Z",
+    "updatedAt": "2024-06-18T16:30:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Water Tomato Greenhouse",
+    "description": "Check irrigation system and adjust watering schedule",
+    "reminderDate": "2024-07-25",
+    "reminderType": "Irrigation",
+    "cropCycleId": 4,
+    "priority": "High",
+    "completed": false,
+    "createdAt": "2024-05-15T13:45:00.000Z",
+    "updatedAt": "2024-05-15T13:45:00.000Z"
+  },
+  {
+    "Id": 5,
+    "title": "Soil Test for Next Season",
+    "description": "Collect soil samples from all fields for nutrient analysis",
+    "reminderDate": "2024-08-01",
+    "reminderType": "Soil Management",
+    "cropCycleId": null,
+    "priority": "Medium",
+    "completed": false,
+    "createdAt": "2024-07-01T11:20:00.000Z",
+    "updatedAt": "2024-07-01T11:20:00.000Z"
+  },
+  {
+    "Id": 6,
+    "title": "Prepare Cotton Field for Planting",
+    "description": "Till and prepare West Field D for cotton planting",
+    "reminderDate": "2024-04-20",
+    "reminderType": "Field Preparation",
+    "cropCycleId": 5,
+    "priority": "High",
+    "completed": true,
+    "completedAt": "2024-04-20T15:45:00.000Z",
+    "createdAt": "2024-04-10T12:00:00.000Z",
+    "updatedAt": "2024-04-20T15:45:00.000Z"
+  },
+  {
+    "Id": 7,
+    "title": "Order Potato Seed",
+    "description": "Place order for certified Russet Burbank seed potatoes",
+    "reminderDate": "2024-07-30",
+    "reminderType": "Supply Management",
+    "cropCycleId": 6,
+    "priority": "Medium",
+    "completed": false,
+    "createdAt": "2024-05-20T10:15:00.000Z",
+    "updatedAt": "2024-05-20T10:15:00.000Z"
+  },
+  {
+    "Id": 8,
+    "title": "Equipment Maintenance Check",
+    "description": "Service and inspect harvesting equipment before busy season",
+    "reminderDate": "2024-08-05",
+    "reminderType": "Equipment",
+    "cropCycleId": null,
+    "priority": "High",
+    "completed": false,
+    "createdAt": "2024-07-15T14:30:00.000Z",
+    "updatedAt": "2024-07-15T14:30:00.000Z"
+  }
+]

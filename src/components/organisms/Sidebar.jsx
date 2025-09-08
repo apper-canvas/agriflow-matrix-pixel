@@ -3,11 +3,12 @@ import NavLink from "@/components/molecules/NavLink";
 import ApperIcon from "@/components/ApperIcon";
 
 const Sidebar = () => {
-  const navigation = [
+const navigation = [
     { name: "Dashboard", href: "/", icon: "LayoutDashboard" },
     { name: "Customers", href: "/customers", icon: "Users" },
     { name: "Orders", href: "/orders", icon: "ShoppingCart" },
-    { name: "Activities", href: "/activities", icon: "Activity" }
+    { name: "Activities", href: "/activities", icon: "Activity" },
+    { name: "Planning", href: "/planning", icon: "Calendar" }
   ];
 
   return (

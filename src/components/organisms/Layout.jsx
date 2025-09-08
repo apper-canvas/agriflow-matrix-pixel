@@ -8,7 +8,7 @@ const Layout = ({ children }) => {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const location = useLocation();
 
-  const getPageTitle = (pathname) => {
+const getPageTitle = (pathname) => {
     switch (pathname) {
       case "/":
         return "Dashboard";
@@ -18,6 +18,8 @@ const Layout = ({ children }) => {
         return "Orders";
       case "/activities":
         return "Activities";
+      case "/planning":
+        return "Planning";
       default:
         if (pathname.includes("/customers/")) {
           return "Customer Details";
